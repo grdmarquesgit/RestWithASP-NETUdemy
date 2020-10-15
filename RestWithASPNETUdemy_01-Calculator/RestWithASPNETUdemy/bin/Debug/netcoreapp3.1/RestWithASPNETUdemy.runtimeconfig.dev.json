@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fmarqueo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fmarqueo\\.nuget\\packages"
+    ]
+  }
+}
